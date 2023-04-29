@@ -83,3 +83,4 @@ collections:
    
     # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
+$ gem install bulma-clean-theme
